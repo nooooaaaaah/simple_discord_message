@@ -1,9 +1,4 @@
 import discord
-import asyncio
-
-
-import discord
-import asyncio
 
 
 async def send_direct_message(token, user_id, message):

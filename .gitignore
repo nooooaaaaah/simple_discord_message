@@ -1,3 +1,7 @@
 __pycache__
 .venv
 .vscode
+test.py
+dist
+simple_dmessage.egg-info
+setup.py
