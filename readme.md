@@ -20,3 +20,6 @@ async def main():
 asyncio.run(main())
 
 ```
+
+### Why
+I wanted an easy way to get remote notfications from scripts 
