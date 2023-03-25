@@ -5,3 +5,5 @@ test.py
 dist
 simple_dmessage.egg-info
 setup.py
+MANIFEST.in
+pyproject.toml
