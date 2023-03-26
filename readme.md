@@ -6,7 +6,7 @@ This bot is designed to send a custom direct message to a user on discord.
 
 ```python
 import asyncio
-from message import send_direct_message
+from simple_dmessage import send_direct_message
 
 
 async def my_script():
